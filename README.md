@@ -1,4 +1,4 @@
-```markdown
+
 # Präsentation: Cross-Plattform-Entwicklung   
 Von Anthony, Tyrone, Davud, Max Sebastian & Nesim
 
