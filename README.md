@@ -92,4 +92,4 @@ Von Anthony, Tyrone, Davud, Max Sebastian & Nesim
 - Cross-Plattform-Entwicklung ermöglicht die Erstellung von Anwendungen, die auf verschiedenen Plattformen lauffähig sind.
 - Es bietet eine kosteneffiziente und zeitsparende Möglichkeit, Apps zu entwickeln, jedoch mit potenziellen Einschränkungen bei der Leistung und dem Zugriff auf plattformspezifische Funktionen.
 
-```
+
